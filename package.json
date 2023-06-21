@@ -1,0 +1,16 @@
+{
+  "name": "pointstreak-filestream",
+  "version": "1.0.0",
+  "description": "app to grab stuff off the api and immediately write to a file",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npm ci && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1"
+  }
+}
