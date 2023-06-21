@@ -11,6 +11,8 @@ https://nodejs.org/en/download
 
 ## Download this repo
 
+Go to the upper right hand corner and click the green "Code" button and then choose "Download Zip". Unzip in the desired file location.
+
 ## Fill out the .env file
 
 Fill out the .env file. An example file is included with the app. There are comments above each field with what needs to go in it.
