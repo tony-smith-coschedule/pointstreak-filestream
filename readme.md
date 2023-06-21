@@ -17,7 +17,7 @@ Go to the upper right hand corner and click the green "Code" button and then cho
 
 Fill out the .env file. An example file is included with the app. There are comments above each field with what needs to go in it.
 
-## Run the program (Mac or Linux, will need to research for PC)
+## Run the program (Mac or Linux)
 
 Open a terminal or command line in the applications directory. For example, if you have the file in Documents, you'll want to be in '.../Documents/pointstreak-filesteam'.
 
